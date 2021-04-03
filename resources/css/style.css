@@ -1,0 +1,64 @@
+html {
+    background-color: black
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color:white;
+    text-align: center;
+}
+
+#coming-soon {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+description {
+    text-align: center;
+    font-size: 21px;
+    color: gray;
+}
+
+h2 {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+
+#coming-song{
+    text-align: center;
+}
+video {
+    display: block;
+    margin: auto;
+}
+
+#description {
+    color: gray;
+    font-size: 21px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
